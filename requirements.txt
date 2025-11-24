@@ -1,0 +1,9 @@
+playwright
+google-genai
+python-dotenv
+pydantic
+rich
+pytest
+requests
+jinja2
+langgraph

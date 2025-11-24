@@ -1,0 +1,93 @@
+2025-11-24 10:15:04,184 - agents.orchestrator_agent - INFO - Creating plan for task: Open Linear, for the project 'Test project 123' add a milestone named final product delivery with a target date of 25 november 2025
+2025-11-24 10:15:07,830 - agents.orchestrator_agent - INFO - Raw LLM response: [{'action': 'navigate', 'value': 'https://linear.app', 'selector': None}]
+2025-11-24 10:15:07,834 - agents.orchestrator_agent - INFO - Generated plan with 1 steps:
+2025-11-24 10:15:07,836 - agents.orchestrator_agent - INFO -   Step 1: navigate -> https://linear.app
+2025-11-24 10:15:07,841 - agents.executor_agent - INFO - Starting browser...
+2025-11-24 10:15:09,886 - agents.executor_agent - INFO - Browser started.
+2025-11-24 10:15:09,886 - agents.executor_agent - INFO - Executing step 1: {'action': 'navigate', 'url': None, 'selector': None, 'value': 'https://linear.app', 'name': None, 'api_endpoint': None, 'api_method': None, 'payload': None}
+2025-11-24 10:15:11,924 - agents.executor_agent - INFO - Step 1 result: {'step_index': 1, 'action': 'navigate', 'success': True, 'state_changed': True, 'screenshot_path': None, 'page_url': 'https://linear.app/', 'error': None, 'details': {}}
+2025-11-24 10:15:11,928 - agents.executor_agent - INFO - Step 1 completed successfully.
+2025-11-24 10:15:16,424 - agents.orchestrator_agent - INFO - Creating plan for task: Open Linear, for the project 'Test project 123' add a milestone named final product delivery with a target date of 25 november 2025
+2025-11-24 10:15:16,425 - agents.orchestrator_agent - INFO - With observation: Current Page: Linear (https://linear.app/)
+Active Modal: None
+Focused Element: None
+Interactive Elem...
+2025-11-24 10:15:24,398 - agents.orchestrator_agent - INFO - Raw LLM response: [{'action': 'wait_for', 'selector': 'text=Projects'}]
+2025-11-24 10:15:24,404 - agents.orchestrator_agent - INFO - Generated plan with 1 steps:
+2025-11-24 10:15:24,406 - agents.orchestrator_agent - INFO -   Step 1: wait_for -> text="Projects"
+2025-11-24 10:15:24,414 - agents.executor_agent - INFO - Executing step 2: {'action': 'wait_for', 'url': None, 'selector': 'text="Projects"', 'value': None, 'name': None, 'api_endpoint': None, 'api_method': None, 'payload': None}
+2025-11-24 10:15:24,478 - agents.executor_agent - INFO - Step 2 result: {'step_index': 2, 'action': 'wait_for', 'success': True, 'state_changed': True, 'screenshot_path': None, 'page_url': 'https://linear.app/softlight-asses/team/SOF/active', 'error': None, 'details': {}}
+2025-11-24 10:15:24,484 - agents.executor_agent - INFO - Step 2 completed successfully.
+2025-11-24 10:15:28,409 - agents.orchestrator_agent - INFO - Creating plan for task: Open Linear, for the project 'Test project 123' add a milestone named final product delivery with a target date of 25 november 2025
+2025-11-24 10:15:28,409 - agents.orchestrator_agent - INFO - With observation: Current Page: Softlight_asses › Active issues (https://linear.app/softlight-asses/team/SOF/active)
+A...
+2025-11-24 10:15:30,976 - agents.orchestrator_agent - INFO - Raw LLM response: [{'action': 'click', 'selector': "a[href*='/projects/all']"}]
+2025-11-24 10:15:30,985 - agents.orchestrator_agent - INFO - Generated plan with 1 steps:
+2025-11-24 10:15:30,985 - agents.orchestrator_agent - INFO -   Step 1: click -> a[href*='/projects/all']
+2025-11-24 10:15:31,000 - agents.executor_agent - INFO - Executing step 3: {'action': 'click', 'url': None, 'selector': "a[href*='/projects/all']", 'value': None, 'name': None, 'api_endpoint': None, 'api_method': None, 'payload': None}
+2025-11-24 10:15:31,384 - agents.executor_agent - INFO - Step 3 result: {'step_index': 3, 'action': 'click', 'success': True, 'state_changed': True, 'screenshot_path': None, 'page_url': 'https://linear.app/softlight-asses/projects/all', 'error': None, 'details': {}}
+2025-11-24 10:15:31,395 - agents.executor_agent - INFO - Step 3 completed successfully.
+2025-11-24 10:15:34,794 - agents.orchestrator_agent - INFO - Creating plan for task: Open Linear, for the project 'Test project 123' add a milestone named final product delivery with a target date of 25 november 2025
+2025-11-24 10:15:34,795 - agents.orchestrator_agent - INFO - With observation: Current Page: Projects (https://linear.app/softlight-asses/projects/all)
+Active Modal: None
+Focused ...
+2025-11-24 10:15:36,562 - agents.orchestrator_agent - INFO - Raw LLM response: [{'action': 'click', 'selector': "a[href*='/project/test-']"}]
+2025-11-24 10:15:36,564 - agents.orchestrator_agent - INFO - Generated plan with 1 steps:
+2025-11-24 10:15:36,565 - agents.orchestrator_agent - INFO -   Step 1: click -> a[href*='/project/test-']
+2025-11-24 10:15:36,572 - agents.executor_agent - INFO - Executing step 4: {'action': 'click', 'url': None, 'selector': "a[href*='/project/test-']", 'value': None, 'name': None, 'api_endpoint': None, 'api_method': None, 'payload': None}
+2025-11-24 10:15:36,952 - agents.executor_agent - INFO - Step 4 result: {'step_index': 4, 'action': 'click', 'success': True, 'state_changed': True, 'screenshot_path': None, 'page_url': 'https://linear.app/softlight-asses/projects/all', 'error': None, 'details': {}}
+2025-11-24 10:15:36,956 - agents.executor_agent - INFO - Step 4 completed successfully.
+2025-11-24 10:15:40,321 - agents.orchestrator_agent - INFO - Creating plan for task: Open Linear, for the project 'Test project 123' add a milestone named final product delivery with a target date of 25 november 2025
+2025-11-24 10:15:40,321 - agents.orchestrator_agent - INFO - With observation: Current Page: Test › Overview (https://linear.app/softlight-asses/project/test-f432df1c8a19/overview...
+2025-11-24 10:15:42,374 - agents.orchestrator_agent - INFO - Raw LLM response: [{'action': 'click', 'selector': "button[aria-label='Add milestone']"}]
+2025-11-24 10:15:42,374 - agents.orchestrator_agent - INFO - Generated plan with 1 steps:
+2025-11-24 10:15:42,375 - agents.orchestrator_agent - INFO -   Step 1: click -> button[aria-label='Add milestone']
+2025-11-24 10:15:42,383 - agents.executor_agent - INFO - Executing step 5: {'action': 'click', 'url': None, 'selector': "button[aria-label='Add milestone']", 'value': None, 'name': None, 'api_endpoint': None, 'api_method': None, 'payload': None}
+2025-11-24 10:15:42,734 - agents.executor_agent - INFO - Step 5 result: {'step_index': 5, 'action': 'click', 'success': True, 'state_changed': True, 'screenshot_path': None, 'page_url': 'https://linear.app/softlight-asses/project/test-f432df1c8a19/overview', 'error': None, 'details': {}}
+2025-11-24 10:15:42,735 - agents.executor_agent - INFO - Step 5 completed successfully.
+2025-11-24 10:15:45,165 - agents.orchestrator_agent - INFO - Creating plan for task: Open Linear, for the project 'Test project 123' add a milestone named final product delivery with a target date of 25 november 2025
+2025-11-24 10:15:45,168 - agents.orchestrator_agent - INFO - With observation: Current Page: Test › Overview (https://linear.app/softlight-asses/project/test-f432df1c8a19/overview...
+2025-11-24 10:15:48,904 - agents.orchestrator_agent - INFO - Raw LLM response: [{'action': 'type', 'selector': 'div[role="textbox"][aria-label="Milestone name"]', 'value': 'final product delivery'}, {'action': 'click', 'selector': 'div[role="button"][aria-label="Choose date"]'}]
+2025-11-24 10:15:48,904 - agents.orchestrator_agent - INFO - Generated plan with 2 steps:
+2025-11-24 10:15:48,910 - agents.orchestrator_agent - INFO -   Step 1: type -> final product delivery
+2025-11-24 10:15:48,910 - agents.orchestrator_agent - INFO -   Step 2: click -> div[role="button"][aria-label="Choose date"]
+2025-11-24 10:15:48,920 - agents.executor_agent - INFO - Executing step 6: {'action': 'type', 'url': None, 'selector': 'div[role="textbox"][aria-label="Milestone name"]', 'value': 'final product delivery', 'name': None, 'api_endpoint': None, 'api_method': None, 'payload': None}
+2025-11-24 10:15:49,018 - agents.executor_agent - INFO - Step 6 result: {'step_index': 6, 'action': 'type', 'success': True, 'state_changed': True, 'screenshot_path': None, 'page_url': 'https://linear.app/softlight-asses/project/test-f432df1c8a19/overview', 'error': None, 'details': {}}
+2025-11-24 10:15:49,024 - agents.executor_agent - INFO - Step 6 completed successfully.
+2025-11-24 10:15:50,441 - agents.executor_agent - INFO - Executing step 7: {'action': 'click', 'url': None, 'selector': 'div[role="button"][aria-label="Choose date"]', 'value': None, 'name': None, 'api_endpoint': None, 'api_method': None, 'payload': None}
+2025-11-24 10:15:51,084 - agents.executor_agent - INFO - Step 7 result: {'step_index': 7, 'action': 'click', 'success': True, 'state_changed': True, 'screenshot_path': None, 'page_url': 'https://linear.app/softlight-asses/project/test-f432df1c8a19/overview', 'error': None, 'details': {}}
+2025-11-24 10:15:51,087 - agents.executor_agent - INFO - Step 7 completed successfully.
+2025-11-24 10:15:53,385 - agents.orchestrator_agent - INFO - Creating plan for task: Open Linear, for the project 'Test project 123' add a milestone named final product delivery with a target date of 25 november 2025
+2025-11-24 10:15:53,385 - agents.orchestrator_agent - INFO - With observation: Current Page: Test › Overview (https://linear.app/softlight-asses/project/test-f432df1c8a19/overview...
+2025-11-24 10:15:56,810 - agents.orchestrator_agent - INFO - Raw LLM response: [{'action': 'type', 'selector': 'input[placeholder="Target date"]', 'value': '25 november 2025'}, {'action': 'click', 'selector': 'button[aria-label="Create"]'}]
+2025-11-24 10:15:56,812 - agents.orchestrator_agent - INFO - Generated plan with 2 steps:
+2025-11-24 10:15:56,812 - agents.orchestrator_agent - INFO -   Step 1: type -> 25 november 2025
+2025-11-24 10:15:56,812 - agents.orchestrator_agent - INFO -   Step 2: click -> button[aria-label="Create"]
+2025-11-24 10:15:56,820 - agents.executor_agent - INFO - Executing step 8: {'action': 'type', 'url': None, 'selector': 'input[placeholder="Target date"]', 'value': '25 november 2025', 'name': None, 'api_endpoint': None, 'api_method': None, 'payload': None}
+2025-11-24 10:15:56,969 - agents.executor_agent - INFO - Step 8 result: {'step_index': 8, 'action': 'type', 'success': True, 'state_changed': True, 'screenshot_path': None, 'page_url': 'https://linear.app/softlight-asses/project/test-f432df1c8a19/overview', 'error': None, 'details': {}}
+2025-11-24 10:15:56,979 - agents.executor_agent - INFO - Step 8 completed successfully.
+2025-11-24 10:15:58,452 - agents.executor_agent - INFO - Executing step 9: {'action': 'click', 'url': None, 'selector': 'button[aria-label="Create"]', 'value': None, 'name': None, 'api_endpoint': None, 'api_method': None, 'payload': None}
+2025-11-24 10:15:59,704 - agents.executor_agent - INFO - Step 9 result: {'step_index': 9, 'action': 'click', 'success': True, 'state_changed': True, 'screenshot_path': None, 'page_url': 'https://linear.app/softlight-asses/project/test-f432df1c8a19/overview', 'error': None, 'details': {}}
+2025-11-24 10:15:59,712 - agents.executor_agent - INFO - Step 9 completed successfully.
+2025-11-24 10:16:02,213 - agents.orchestrator_agent - INFO - Creating plan for task: Open Linear, for the project 'Test project 123' add a milestone named final product delivery with a target date of 25 november 2025
+2025-11-24 10:16:02,214 - agents.orchestrator_agent - INFO - With observation: Current Page: Test › Overview (https://linear.app/softlight-asses/project/test-f432df1c8a19/overview...
+2025-11-24 10:16:09,609 - agents.orchestrator_agent - INFO - Raw LLM response: [{'action': 'click', 'selector': "div[role='button'][aria-label='Choose date']"}]
+2025-11-24 10:16:09,610 - agents.orchestrator_agent - INFO - Generated plan with 1 steps:
+2025-11-24 10:16:09,610 - agents.orchestrator_agent - INFO -   Step 1: click -> div[role='button'][aria-label='Choose date']
+2025-11-24 10:16:09,614 - agents.executor_agent - INFO - Executing step 10: {'action': 'click', 'url': None, 'selector': "div[role='button'][aria-label='Choose date']", 'value': None, 'name': None, 'api_endpoint': None, 'api_method': None, 'payload': None}
+2025-11-24 10:16:10,500 - agents.executor_agent - INFO - Step 10 result: {'step_index': 10, 'action': 'click', 'success': True, 'state_changed': True, 'screenshot_path': None, 'page_url': 'https://linear.app/softlight-asses/project/test-f432df1c8a19/overview', 'error': None, 'details': {}}
+2025-11-24 10:16:10,506 - agents.executor_agent - INFO - Step 10 completed successfully.
+2025-11-24 10:16:12,983 - agents.orchestrator_agent - INFO - Creating plan for task: Open Linear, for the project 'Test project 123' add a milestone named final product delivery with a target date of 25 november 2025
+2025-11-24 10:16:12,984 - agents.orchestrator_agent - INFO - With observation: Current Page: Test › Overview (https://linear.app/softlight-asses/project/test-f432df1c8a19/overview...
+2025-11-24 10:16:16,824 - agents.orchestrator_agent - INFO - Raw LLM response: [{'action': 'click', 'selector': 'button[aria-label="Tuesday, November 25th, 2025"]'}]
+2025-11-24 10:16:16,825 - agents.orchestrator_agent - INFO - Generated plan with 1 steps:
+2025-11-24 10:16:16,825 - agents.orchestrator_agent - INFO -   Step 1: click -> button[aria-label="Tuesday, November 25th, 2025"]
+2025-11-24 10:16:16,830 - agents.executor_agent - INFO - Executing step 11: {'action': 'click', 'url': None, 'selector': 'button[aria-label="Tuesday, November 25th, 2025"]', 'value': None, 'name': None, 'api_endpoint': None, 'api_method': None, 'payload': None}
+2025-11-24 10:16:17,488 - agents.executor_agent - INFO - Step 11 result: {'step_index': 11, 'action': 'click', 'success': True, 'state_changed': True, 'screenshot_path': None, 'page_url': 'https://linear.app/softlight-asses/project/test-f432df1c8a19/overview', 'error': None, 'details': {}}
+2025-11-24 10:16:17,496 - agents.executor_agent - INFO - Step 11 completed successfully.
+2025-11-24 10:16:19,895 - agents.orchestrator_agent - INFO - Creating plan for task: Open Linear, for the project 'Test project 123' add a milestone named final product delivery with a target date of 25 november 2025
+2025-11-24 10:16:19,895 - agents.orchestrator_agent - INFO - With observation: Current Page: Test › Overview (https://linear.app/softlight-asses/project/test-f432df1c8a19/overview...
+2025-11-24 10:16:23,879 - agents.orchestrator_agent - INFO - Raw LLM response: []
+2025-11-24 10:16:23,879 - agents.orchestrator_agent - INFO - Generated plan with 0 steps:
+2025-11-24 10:16:40,063 - agents.executor_agent - INFO - Stopping browser...
+2025-11-24 10:16:41,115 - agents.executor_agent - INFO - Browser stopped.

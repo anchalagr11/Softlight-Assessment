@@ -1,0 +1,194 @@
+[
+  {
+    "step_index": 1,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__delete_an_issue_named_as_alpha\\20251124T034810Z_step_1_fd336cb2.png",
+    "page_url": "https://linear.app/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "wait_for",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__delete_an_issue_named_as_alpha\\20251124T034818Z_step_1_ed85f315.png",
+    "page_url": "https://linear.app/softlight-asses/team/SOF/active",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__delete_an_issue_named_as_alpha\\20251124T034825Z_step_1_85c10902.png",
+    "page_url": "https://linear.app/softlight-asses/issue/SOF-6/alpha",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__delete_an_issue_named_as_alpha\\20251124T034829Z_step_1_cb2d809d.png",
+    "page_url": "https://linear.app/softlight-asses/issue/SOF-6/alpha",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__delete_an_issue_named_as_alpha\\20251124T034834Z_step_1_f0792e9b.png",
+    "page_url": "https://linear.app/softlight-asses/issue/SOF-6/alpha",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__delete_an_issue_named_as_alpha\\20251124T034838Z_step_1_75825a85.png",
+    "page_url": "https://linear.app/softlight-asses/issue/SOF-6/alpha",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__delete_an_issue_named_as_alpha\\20251124T034843Z_step_1_c14c81b9.png",
+    "page_url": "https://linear.app/softlight-asses/issue/SOF-6/alpha",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__delete_an_issue_named_as_alpha\\20251124T034847Z_step_1_27bb0ba1.png",
+    "page_url": "https://linear.app/softlight-asses/team/SOF/all",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": false,
+    "state_changed": false,
+    "screenshot_path": "dataset\\in_the_app_linear__delete_an_issue_named_as_alpha\\20251124T034938Z_step_1_267e0215.png",
+    "page_url": "https://linear.app/softlight-asses/team/SOF/all",
+    "error": "Could not click a[href*='/issue/SOF-5/a...']:has-text('Alpha')",
+    "details": {
+      "error": "Could not click a[href*='/issue/SOF-5/a...']:has-text('Alpha')"
+    }
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__delete_an_issue_named_as_alpha\\20251124T034951Z_step_1_46abb9be.png",
+    "page_url": "https://linear.app/softlight-asses/issue/SOF-5/alpha",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__delete_an_issue_named_as_alpha\\20251124T034956Z_step_1_d0d0eaea.png",
+    "page_url": "https://linear.app/softlight-asses/issue/SOF-5/alpha",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__delete_an_issue_named_as_alpha\\20251124T035001Z_step_1_5d58a9d6.png",
+    "page_url": "https://linear.app/softlight-asses/issue/SOF-5/alpha",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__delete_an_issue_named_as_alpha\\20251124T035006Z_step_1_24e707f4.png",
+    "page_url": "https://linear.app/softlight-asses/issue/SOF-5/alpha",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__delete_an_issue_named_as_alpha\\20251124T035010Z_step_1_1cd35bd1.png",
+    "page_url": "https://linear.app/softlight-asses/issue/SOF-5/alpha",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__delete_an_issue_named_as_alpha\\20251124T035015Z_step_1_23fcd612.png",
+    "page_url": "https://linear.app/softlight-asses/team/SOF/all",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__delete_an_issue_named_as_alpha\\20251124T035021Z_step_1_cc05d8da.png",
+    "page_url": "https://linear.app/softlight-asses/search",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "type",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__delete_an_issue_named_as_alpha\\20251124T035030Z_step_1_59db21ff.png",
+    "page_url": "https://linear.app/softlight-asses/search",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 2,
+    "action": "press",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__delete_an_issue_named_as_alpha\\20251124T035031Z_step_2_dc3275fb.png",
+    "page_url": "https://linear.app/softlight-asses/search?q=Alpha",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__delete_an_issue_named_as_alpha\\20251124T035040Z_step_1_bdb21a70.png",
+    "page_url": "https://linear.app/softlight-asses/search?q=Alpha",
+    "error": null,
+    "details": {}
+  }
+]

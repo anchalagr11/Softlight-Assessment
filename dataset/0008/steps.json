@@ -1,0 +1,166 @@
+[
+  {
+    "step_index": 1,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://www.youtube.com/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\search_and_play_for_the_top_10_music_in_yotube_for_the_year_2025\\20251124T052928Z_step_1_e00119ad.png",
+    "page_url": "https://www.youtube.com/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 2,
+    "action": "type",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://www.youtube.com/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 2,
+    "action": "type",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\search_and_play_for_the_top_10_music_in_yotube_for_the_year_2025\\20251124T052933Z_step_2_91f88f19.png",
+    "page_url": "https://www.youtube.com/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 3,
+    "action": "press",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://www.youtube.com/results?search_query=top+10+music+2025",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 4,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://www.youtube.com/watch?v=rK5TyISxZ_M&list=PLOHoVaTp8R7esHFifrUPQSVXkwz1WYIzk",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 4,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\search_and_play_for_the_top_10_music_in_yotube_for_the_year_2025\\20251124T052942Z_step_4_a9a04c7a.png",
+    "page_url": "https://www.youtube.com/watch?v=rK5TyISxZ_M&list=PLOHoVaTp8R7esHFifrUPQSVXkwz1WYIzk",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 5,
+    "action": "click",
+    "success": false,
+    "state_changed": false,
+    "screenshot_path": "dataset\\search_and_play_for_the_top_10_music_in_yotube_for_the_year_2025\\20251124T053033Z_step_5_9201f2f0.png",
+    "page_url": "https://www.youtube.com/watch?v=rK5TyISxZ_M&list=PLOHoVaTp8R7esHFifrUPQSVXkwz1WYIzk",
+    "error": "Could not click a[href*='/playlist?list=PLOHoVaTp8R7esH...']:has-text('Top Songs Of The Week 2025 - Top 10 Songs of The W')",
+    "details": {
+      "error": "Could not click a[href*='/playlist?list=PLOHoVaTp8R7esH...']:has-text('Top Songs Of The Week 2025 - Top 10 Songs of The W')"
+    }
+  },
+  {
+    "step_index": 6,
+    "action": "click",
+    "success": false,
+    "state_changed": false,
+    "screenshot_path": null,
+    "page_url": "https://www.youtube.com/watch?v=rK5TyISxZ_M&list=PLOHoVaTp8R7esHFifrUPQSVXkwz1WYIzk",
+    "error": "Could not click a[id='video-title']:has-text('2025'):has-text('top')",
+    "details": {
+      "error": "Could not click a[id='video-title']:has-text('2025'):has-text('top')"
+    }
+  },
+  {
+    "step_index": 1,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://www.youtube.com/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\search_and_play_for_the_top_10_music_in_yotube_for_the_year_2025\\20251124T053710Z_step_1_bdfe474c.png",
+    "page_url": "https://www.youtube.com/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 2,
+    "action": "type",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://www.youtube.com/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 2,
+    "action": "type",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\search_and_play_for_the_top_10_music_in_yotube_for_the_year_2025\\20251124T053715Z_step_2_85997f48.png",
+    "page_url": "https://www.youtube.com/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 3,
+    "action": "press",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://www.youtube.com/results?search_query=top+10+music+2025",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 4,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://www.youtube.com/watch?v=rK5TyISxZ_M&list=PLOHoVaTp8R7esHFifrUPQSVXkwz1WYIzk",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 4,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\search_and_play_for_the_top_10_music_in_yotube_for_the_year_2025\\20251124T053723Z_step_4_820a4e8c.png",
+    "page_url": "https://www.youtube.com/watch?v=rK5TyISxZ_M&list=PLOHoVaTp8R7esHFifrUPQSVXkwz1WYIzk",
+    "error": null,
+    "details": {}
+  }
+]

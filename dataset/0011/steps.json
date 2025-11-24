@@ -1,0 +1,112 @@
+[
+  {
+    "step_index": 1,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://linear.app/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_linear__create_a_new_project_named_test_project\\20251124T060551Z_step_1_eb05ba48.png",
+    "page_url": "https://linear.app/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 2,
+    "action": "wait_for",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://linear.app/softlight-asses/team/SOF/active",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 3,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://linear.app/softlight-asses/projects/all",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 3,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_linear__create_a_new_project_named_test_project\\20251124T060602Z_step_3_00bd3ba2.png",
+    "page_url": "https://linear.app/softlight-asses/projects/all",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 4,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://linear.app/softlight-asses/projects/all",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 4,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_linear__create_a_new_project_named_test_project\\20251124T060606Z_step_4_91e3076f.png",
+    "page_url": "https://linear.app/softlight-asses/projects/all",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 5,
+    "action": "type",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://linear.app/softlight-asses/projects/all",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 5,
+    "action": "type",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_linear__create_a_new_project_named_test_project\\20251124T060610Z_step_5_334006d2.png",
+    "page_url": "https://linear.app/softlight-asses/projects/all",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 6,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://linear.app/softlight-asses/projects/all",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 6,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_linear__create_a_new_project_named_test_project\\20251124T060612Z_step_6_d6e788d2.png",
+    "page_url": "https://linear.app/softlight-asses/projects/all",
+    "error": null,
+    "details": {}
+  }
+]

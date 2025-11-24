@@ -1,0 +1,42 @@
+[
+  {
+    "step_index": 1,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__create_a_new_issue_named_as_test_flight\\20251124T041616Z_step_1_4cf3bcfc.png",
+    "page_url": "https://linear.app/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__create_a_new_issue_named_as_test_flight\\20251124T041629Z_step_1_e8b012a7.png",
+    "page_url": "https://linear.app/softlight-asses/team/SOF/active",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "type",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__create_a_new_issue_named_as_test_flight\\20251124T041636Z_step_1_bdf88d0a.png",
+    "page_url": "https://linear.app/softlight-asses/team/SOF/active",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 2,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__create_a_new_issue_named_as_test_flight\\20251124T041638Z_step_2_c2503678.png",
+    "page_url": "https://linear.app/softlight-asses/team/SOF/active",
+    "error": null,
+    "details": {}
+  }
+]

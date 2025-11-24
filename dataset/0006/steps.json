@@ -1,0 +1,126 @@
+[
+  {
+    "step_index": 1,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__update_the_priority_for_the_project__test__as_high_and_staus_as__planned_\\20251124T050026Z_step_1_b8d74e04.png",
+    "page_url": "https://linear.app/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "wait_for",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__update_the_priority_for_the_project__test__as_high_and_staus_as__planned_\\20251124T050037Z_step_1_3df8c993.png",
+    "page_url": "https://linear.app/softlight-asses/team/SOF/active",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__update_the_priority_for_the_project__test__as_high_and_staus_as__planned_\\20251124T050042Z_step_1_e35f547a.png",
+    "page_url": "https://linear.app/softlight-asses/projects/all",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 2,
+    "action": "wait_for",
+    "success": false,
+    "state_changed": false,
+    "screenshot_path": null,
+    "page_url": "https://linear.app/softlight-asses/projects/all",
+    "error": "Locator.wait_for: Unknown engine \"url*\" while parsing selector url*=linear.app/softlight-asses/projects/all >> nth=0\nCall log:\n  - waiting for locator(\"url*=linear.app/softlight-asses/projects/all\").first to be visible\n",
+    "details": {
+      "error": "Locator.wait_for: Unknown engine \"url*\" while parsing selector url*=linear.app/softlight-asses/projects/all >> nth=0\nCall log:\n  - waiting for locator(\"url*=linear.app/softlight-asses/projects/all\").first to be visible\n"
+    }
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__update_the_priority_for_the_project__test__as_high_and_staus_as__planned_\\20251124T050053Z_step_1_6530ef1a.png",
+    "page_url": "https://linear.app/softlight-asses/projects/all",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 2,
+    "action": "wait_for",
+    "success": false,
+    "state_changed": false,
+    "screenshot_path": null,
+    "page_url": "https://linear.app/softlight-asses/projects/all",
+    "error": "Locator.wait_for: Unknown engine \"url*\" while parsing selector url*=linear.app/*/projects >> nth=0\nCall log:\n  - waiting for locator(\"url*=linear.app/*/projects\").first to be visible\n",
+    "details": {
+      "error": "Locator.wait_for: Unknown engine \"url*\" while parsing selector url*=linear.app/*/projects >> nth=0\nCall log:\n  - waiting for locator(\"url*=linear.app/*/projects\").first to be visible\n"
+    }
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__update_the_priority_for_the_project__test__as_high_and_staus_as__planned_\\20251124T050103Z_step_1_129f9ef1.png",
+    "page_url": "https://linear.app/softlight-asses/projects/all",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__update_the_priority_for_the_project__test__as_high_and_staus_as__planned_\\20251124T050108Z_step_1_a4b835bc.png",
+    "page_url": "https://linear.app/softlight-asses/project/test-f432df1c8a19/overview",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__update_the_priority_for_the_project__test__as_high_and_staus_as__planned_\\20251124T050113Z_step_1_be3ae8ab.png",
+    "page_url": "https://linear.app/softlight-asses/project/test-f432df1c8a19/overview",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__update_the_priority_for_the_project__test__as_high_and_staus_as__planned_\\20251124T050118Z_step_1_ded177b9.png",
+    "page_url": "https://linear.app/softlight-asses/project/test-f432df1c8a19/overview",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__update_the_priority_for_the_project__test__as_high_and_staus_as__planned_\\20251124T050122Z_step_1_cb77c4b5.png",
+    "page_url": "https://linear.app/softlight-asses/project/test-f432df1c8a19/overview",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 2,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__update_the_priority_for_the_project__test__as_high_and_staus_as__planned_\\20251124T050138Z_step_2_a8039138.png",
+    "page_url": "https://linear.app/softlight-asses/project/test-f432df1c8a19/overview",
+    "error": null,
+    "details": {}
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "step_index": 1,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__create_a_new_issue__named_as_alpha\\20251124T012011Z_step_1_6eb48dc2.png",
+    "page_url": "https://linear.app/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "wait_for",
+    "success": false,
+    "state_changed": false,
+    "screenshot_path": null,
+    "page_url": "https://linear.app/softlight-asses/team/SOF/active",
+    "error": "Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"button:has-text('New issue')\").first to be visible\n",
+    "details": {
+      "error": "Locator.wait_for: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator(\"button:has-text('New issue')\").first to be visible\n"
+    }
+  },
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__create_a_new_issue__named_as_alpha\\20251124T012045Z_step_1_8a187606.png",
+    "page_url": "https://linear.app/softlight-asses/team/SOF/active",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "type",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__create_a_new_issue__named_as_alpha\\20251124T012050Z_step_1_18be2170.png",
+    "page_url": "https://linear.app/softlight-asses/team/SOF/active",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 2,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\in_the_app_linear__create_a_new_issue__named_as_alpha\\20251124T012052Z_step_2_dcae495c.png",
+    "page_url": "https://linear.app/softlight-asses/team/SOF/active",
+    "error": null,
+    "details": {}
+  }
+]

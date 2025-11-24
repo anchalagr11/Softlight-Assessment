@@ -1,0 +1,904 @@
+[
+  {
+    "step_index": 1,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdocs.google.com%2F&dsh=S53836873%3A1763962764184113&emr=1&followup=https%3A%2F%2Fdocs.google.com%2F&ifkv=ARESoU3UCDrj_aVBnp1SK88578DKT2tPASibj2rBfu9DBnaxg7jBIhSvhEYlT2apv5nJ5Vu6C12u&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T053926Z_step_1_5b8af53a.png",
+    "page_url": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdocs.google.com%2F&dsh=S53836873%3A1763962764184113&emr=1&followup=https%3A%2F%2Fdocs.google.com%2F&ifkv=ARESoU3UCDrj_aVBnp1SK88578DKT2tPASibj2rBfu9DBnaxg7jBIhSvhEYlT2apv5nJ5Vu6C12u&osid=1&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 2,
+    "action": "wait_for_user",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 3,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/create?usp=docs_home&ths=true",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 3,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T054142Z_step_3_9cef81ac.png",
+    "page_url": "https://docs.google.com/document/d/1NIUPmZ1nRRVqKz_WfSxts5jI0xMLJ0GKTA7XsH_OFgs/edit?tab=t.0",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 4,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/d/1NIUPmZ1nRRVqKz_WfSxts5jI0xMLJ0GKTA7XsH_OFgs/edit?tab=t.0",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 4,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T054152Z_step_4_fa4c1f69.png",
+    "page_url": "https://docs.google.com/document/d/1NIUPmZ1nRRVqKz_WfSxts5jI0xMLJ0GKTA7XsH_OFgs/edit?tab=t.0",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 5,
+    "action": "type",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/d/1NIUPmZ1nRRVqKz_WfSxts5jI0xMLJ0GKTA7XsH_OFgs/edit?tab=t.0",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 5,
+    "action": "type",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T054153Z_step_5_27158f0b.png",
+    "page_url": "https://docs.google.com/document/d/1NIUPmZ1nRRVqKz_WfSxts5jI0xMLJ0GKTA7XsH_OFgs/edit?tab=t.0",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 6,
+    "action": "press",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/d/1NIUPmZ1nRRVqKz_WfSxts5jI0xMLJ0GKTA7XsH_OFgs/edit?tab=t.0",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 7,
+    "action": "type",
+    "success": false,
+    "state_changed": false,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T054228Z_step_7_653ea46b.png",
+    "page_url": "https://docs.google.com/document/d/1NIUPmZ1nRRVqKz_WfSxts5jI0xMLJ0GKTA7XsH_OFgs/edit?tab=t.0",
+    "error": "Click-and-type failed: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"div[role='textbox']\").first\n",
+    "details": {
+      "error": "Click-and-type failed: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"div[role='textbox']\").first\n"
+    }
+  },
+  {
+    "step_index": 8,
+    "action": "type",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/d/1NIUPmZ1nRRVqKz_WfSxts5jI0xMLJ0GKTA7XsH_OFgs/edit?tab=t.0",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 8,
+    "action": "type",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T054320Z_step_8_be6afda3.png",
+    "page_url": "https://docs.google.com/document/d/1NIUPmZ1nRRVqKz_WfSxts5jI0xMLJ0GKTA7XsH_OFgs/edit?tab=t.0",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 9,
+    "action": "type",
+    "success": false,
+    "state_changed": false,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T054354Z_step_9_97303eab.png",
+    "page_url": "https://docs.google.com/document/d/1NIUPmZ1nRRVqKz_WfSxts5jI0xMLJ0GKTA7XsH_OFgs/edit?tab=t.0",
+    "error": "Click-and-type failed: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"div[contenteditable='true']\").first\n",
+    "details": {
+      "error": "Click-and-type failed: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"div[contenteditable='true']\").first\n"
+    }
+  },
+  {
+    "step_index": 10,
+    "action": "type",
+    "success": false,
+    "state_changed": false,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T054444Z_step_10_59c88bdc.png",
+    "page_url": "https://docs.google.com/document/d/1NIUPmZ1nRRVqKz_WfSxts5jI0xMLJ0GKTA7XsH_OFgs/edit?tab=t.0",
+    "error": "Click-and-type failed: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"div[aria-label=\\\"Document title\\\"]\").first\n",
+    "details": {
+      "error": "Click-and-type failed: Locator.click: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\"div[aria-label=\\\"Document title\\\"]\").first\n"
+    }
+  },
+  {
+    "step_index": 1,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T054851Z_step_1_38062070.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 2,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 2,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T054908Z_step_2_c102a68e.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 3,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 3,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T054913Z_step_3_dcf21fae.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 4,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 4,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T054929Z_step_4_2820a80e.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 5,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 5,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T054951Z_step_5_a6f262c7.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 6,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 6,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T054957Z_step_6_a24b46bb.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 7,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 7,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055003Z_step_7_59a66011.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 8,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 8,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055014Z_step_8_c6214541.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 9,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/d/1NIUPmZ1nRRVqKz_WfSxts5jI0xMLJ0GKTA7XsH_OFgs/edit?ouid=118182780565969313802&usp=docs_home&ths=true",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 9,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055034Z_step_9_8dac4cce.png",
+    "page_url": "https://docs.google.com/document/d/1NIUPmZ1nRRVqKz_WfSxts5jI0xMLJ0GKTA7XsH_OFgs/edit?tab=t.0",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 10,
+    "action": "click",
+    "success": false,
+    "state_changed": false,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055126Z_step_10_79497c97.png",
+    "page_url": "https://docs.google.com/document/d/1NIUPmZ1nRRVqKz_WfSxts5jI0xMLJ0GKTA7XsH_OFgs/edit?tab=t.0",
+    "error": "Could not click iframe",
+    "details": {
+      "error": "Could not click iframe"
+    }
+  },
+  {
+    "step_index": 11,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 11,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055138Z_step_11_2b5e3567.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 12,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055209Z_step_1_7707e5b5.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 2,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 2,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055214Z_step_2_288fa3da.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 3,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 3,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055218Z_step_3_7db0bb30.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 4,
+    "action": "wait_for",
+    "success": false,
+    "state_changed": false,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055234Z_step_4_cb832eae.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": "Timeout 15000ms exceeded.\n=========================== logs ===========================\nwaiting for navigation to \"<function ImplToApiMapping.wrap_handler.<locals>.wrapper_func at 0x00000186B8E22700>\" until 'load'\n============================================================",
+    "details": {
+      "error": "Timeout 15000ms exceeded.\n=========================== logs ===========================\nwaiting for navigation to \"<function ImplToApiMapping.wrap_handler.<locals>.wrapper_func at 0x00000186B8E22700>\" until 'load'\n============================================================"
+    }
+  },
+  {
+    "step_index": 5,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 5,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055241Z_step_5_1a886a6a.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 6,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 6,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055259Z_step_6_7ebb4aa4.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 7,
+    "action": "wait_for",
+    "success": false,
+    "state_changed": false,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055315Z_step_7_865ef939.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": "Timeout 15000ms exceeded.\n=========================== logs ===========================\nwaiting for navigation to \"<function ImplToApiMapping.wrap_handler.<locals>.wrapper_func at 0x00000186B8ECA520>\" until 'load'\n============================================================",
+    "details": {
+      "error": "Timeout 15000ms exceeded.\n=========================== logs ===========================\nwaiting for navigation to \"<function ImplToApiMapping.wrap_handler.<locals>.wrapper_func at 0x00000186B8ECA520>\" until 'load'\n============================================================"
+    }
+  },
+  {
+    "step_index": 8,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 8,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055321Z_step_8_bb2c5c3b.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 9,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 9,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055326Z_step_9_621ccd1e.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 10,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 10,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055330Z_step_10_88a901e9.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 11,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 11,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055352Z_step_11_7e0fcc6f.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 12,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 12,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055359Z_step_12_e7121e34.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 13,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 13,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055403Z_step_13_c921ba2e.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 14,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 14,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055408Z_step_14_57280fcd.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 15,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 15,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055412Z_step_15_e3bbe3b3.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 16,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 16,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055433Z_step_16_d2bf81c1.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 17,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 17,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055452Z_step_17_a0cd48fa.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 18,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 18,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055457Z_step_18_1deb1633.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 19,
+    "action": "click",
+    "success": false,
+    "state_changed": false,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": "Could not click text=\"Blank document\"",
+    "details": {
+      "error": "Could not click text=\"Blank document\""
+    }
+  },
+  {
+    "step_index": 20,
+    "action": "navigate",
+    "success": false,
+    "state_changed": false,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": "Page.goto: Target page, context or browser has been closed",
+    "details": {
+      "error": "Page.goto: Target page, context or browser has been closed"
+    }
+  },
+  {
+    "step_index": 21,
+    "action": "navigate",
+    "success": false,
+    "state_changed": false,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": "Page.goto: Target page, context or browser has been closed",
+    "details": {
+      "error": "Page.goto: Target page, context or browser has been closed"
+    }
+  },
+  {
+    "step_index": 1,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 1,
+    "action": "navigate",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T055957Z_step_1_c1552461.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 2,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 2,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T060002Z_step_2_7ef33a87.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 3,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 3,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T060023Z_step_3_a9499646.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 4,
+    "action": "click",
+    "success": false,
+    "state_changed": false,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T060112Z_step_4_7ae9b660.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": "Could not click div:has-text('Blank document Resume Serif Resume Coral Letter Sp')",
+    "details": {
+      "error": "Could not click div:has-text('Blank document Resume Serif Resume Coral Letter Sp')"
+    }
+  },
+  {
+    "step_index": 5,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 5,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T060131Z_step_5_f5acbc06.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 6,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 6,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T060151Z_step_6_06bd8196.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 7,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 7,
+    "action": "click",
+    "success": true,
+    "state_changed": true,
+    "screenshot_path": "dataset\\open_google_docs__if_requred_ask_me_to_sign_in__prepare_me_a_new_document_on_the_topic_applications_of_gen_ai_and_fill_the_document_with_appropriate_content_related_gen_ai\\20251124T060217Z_step_7_7e1e209a.png",
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": null,
+    "details": {}
+  },
+  {
+    "step_index": 8,
+    "action": "click",
+    "success": false,
+    "state_changed": false,
+    "screenshot_path": null,
+    "page_url": "https://docs.google.com/document/u/0/",
+    "error": "Could not click text=\"Blank document\"",
+    "details": {
+      "error": "Could not click text=\"Blank document\""
+    }
+  }
+]

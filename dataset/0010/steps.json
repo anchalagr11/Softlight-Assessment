@@ -1,0 +1,26 @@
+[
+  {
+    "step_index": 1,
+    "action": "click",
+    "success": false,
+    "state_changed": false,
+    "screenshot_path": "dataset\\in_the_app_linear__create_a_new_project_named_test2\\20251124T060411Z_step_1_38eaa261.png",
+    "page_url": "about:blank",
+    "error": "Could not click a[href*='/projects']:has-text('Projects')",
+    "details": {
+      "error": "Could not click a[href*='/projects']:has-text('Projects')"
+    }
+  },
+  {
+    "step_index": 2,
+    "action": "click",
+    "success": false,
+    "state_changed": false,
+    "screenshot_path": null,
+    "page_url": "about:blank",
+    "error": "Could not click text=\"New\"",
+    "details": {
+      "error": "Could not click text=\"New\""
+    }
+  }
+]
